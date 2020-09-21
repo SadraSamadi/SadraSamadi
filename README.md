@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ```json
 {
-    "firstName": "Sadra",
-    "lastName": "Samadi",
-    "birthDay": "1996-02-02",
+    "name": "Sadra Samadi",
+    "title": "Full-stack Developer",
     "phone": "+98 902 128 6464",
     "email": "sadra.smd@gmail.com",
-    "bio": "Full-stack Developer."
 }
 ```
