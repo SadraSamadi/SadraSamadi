@@ -20,6 +20,6 @@ Here are some ideas to get you started:
     "name": "Sadra Samadi",
     "title": "Full-stack Developer",
     "phone": "+98 902 128 6464",
-    "email": "sadra.smd@gmail.com",
+    "email": "sadra.smd@gmail.com"
 }
 ```
