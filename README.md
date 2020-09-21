@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```json
+{
+    "firstName": "Sadra",
+    "lastName": "Samadi",
+    "birthDay": "1996-02-02",
+    "phone": "+98 902 128 6464",
+    "email": "sadra.smd@gmail.com",
+    "bio": "Full-stack Developer."
+}
+```
