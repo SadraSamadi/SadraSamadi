@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **SadraSamadi/SadraSamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,13 +14,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 ```json
 {
     "name": "Sadra Samadi",
     "title": "Full-stack Developer",
+    "email": "sadra.smd@gmail.com",
     "phone": "+98 902 128 6464",
-    "email": "sadra.smd@gmail.com"
+    "telegram": "@SadraSamadi"
 }
 ```
