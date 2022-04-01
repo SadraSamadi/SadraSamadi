@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 -->
 
+<!--
+
 `curl -X GET -H "Accept: application/json" https://sadrasamadi.herokuapp.com/info`
 
 ```json
@@ -28,3 +30,5 @@ Here are some ideas to get you started:
     "telegram": "@SadraSamadi"
 }
 ```
+
+-->
