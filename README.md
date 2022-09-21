@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ```json
 {
     "name": "Sadra Samadi",
-    "title": "Full-stack Developer"
+    "title": "Full-stack Developer",
+    "email": "sadra.smd@gmail.com"
 }
 ```
