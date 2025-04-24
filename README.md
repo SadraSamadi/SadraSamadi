@@ -17,26 +17,9 @@ Here are some ideas to get you started:
 
 -->
 
-<!--
-
-`curl -X GET -H "Accept: application/json" https://sadrasamadi.herokuapp.com/info`
-
 ```json
 {
-    "name": "Sadra Samadi",
-    "title": "Full-stack Developer",
-    "email": "sadra.smd@gmail.com",
-    "phone": "+98 902 128 6464",
-    "telegram": "@SadraSamadi"
-}
-```
-
--->
-
-```json
-{
-    "name": "Sadra Samadi",
-    "title": "Full-stack Developer",
-    "email": "sadra.smd@gmail.com"
+    "fullname": "Sadra Samadi",
+    "title": "Full-stack Developer"
 }
 ```
